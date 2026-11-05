@@ -1,0 +1,1 @@
+{"name":"zwibodoni-tickets","version":"1.0.0","private":true,"description":"Event ticket application and manual payment approval site","main":"server.js","scripts":{"start":"node server.js"}}
